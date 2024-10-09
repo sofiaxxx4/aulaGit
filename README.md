@@ -1,3 +1,5 @@
+sofia silva dos santos 
+sos543221@gamil.com
 # aulaGit
 https://scratch.mit.edu/projects/998782057/#editor
 https://editor.p5js.org/
